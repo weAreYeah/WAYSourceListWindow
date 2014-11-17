@@ -27,7 +27,7 @@ Usage
 Explanation
 -----------
 
-![WAYSourceListWindow](WAYSourceListWindow.png =350x)
+<img src="WAYSourceListWindow.png" width="350" />
 
 
 Interesting
@@ -49,4 +49,4 @@ STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
 THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-![We are Yeah!](http://www.weAreYeah.com/weAreYeah@2x.png)
+<a href="http://www.weAreYeah.com/"><img src="http://www.weAreYeah.com/weAreYeah@2x.png /></a>
