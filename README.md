@@ -9,6 +9,11 @@ By default, the Master View uses a Vibrant Light appearance. You can change this
 
 Whenever it makes sense, the properties of your WAYSourceListWindow instance in Interface Builder are inspectable.
 
+Example
+-------
+
+![WAYSourceListWindow](WAYSourceListWindow%20Example.png)
+
 Usage
 -----
 
@@ -19,11 +24,10 @@ Usage
 5. Right-click-drag from your ```WAYSourceListWindow``` instance to one of the views and define it as the Master View.
 5. Right-click-drag from your ```WAYSourceListWindow``` instance to one of the views and define it as the Detail View.
 
+Explanation
+-----------
 
-Example
--------
-
-![WAYSourceListWindow](WAYSourceListWindow%20Example.png)
+![WAYSourceListWindow](WAYSourceListWindow.png =350x)
 
 
 Interesting
