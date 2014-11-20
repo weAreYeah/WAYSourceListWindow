@@ -49,4 +49,4 @@ STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
 THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-<a href="http://www.weAreYeah.com/"><img src="http://www.weAreYeah.com/weAreYeah@2x.png" width="100" /></a>
+<a href="http://www.weAreYeah.com/"><img src="http://www.weAreYeah.com/we-are-yeah-black@2x.jpg" width="75" /></a>
