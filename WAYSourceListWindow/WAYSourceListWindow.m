@@ -194,18 +194,16 @@
 }
 
 #pragma mark - NSSplitView Delegate
-- (void)splitView:(NSSplitView *)sender resizeSubviewsWithOldSize:(NSSize)oldSize {
-	if ([self.splitView inLiveResize]) {
-		[self setNeedsLayout];
-	}
-}
-
 - (CGFloat) splitView:(NSSplitView *)splitView constrainMaxCoordinate:(CGFloat)proposedMaximumPosition ofSubviewAt:(NSInteger)dividerIndex {
 	return MIN(proposedMaximumPosition, self.maximumMasterViewWidth);
 }
 
 - (CGFloat) splitView:(NSSplitView *)splitView constrainMinCoordinate:(CGFloat)proposedMinimumPosition ofSubviewAt:(NSInteger)dividerIndex {
 	return MAX(proposedMinimumPosition, self.minimumMasterViewWidth);
+}
+
+- (BOOL) splitView:(NSSplitView *)splitView shouldAdjustSizeOfSubview:(NSView *)view {
+  return view == self.detailViewWrapper;
 }
 
 @end
